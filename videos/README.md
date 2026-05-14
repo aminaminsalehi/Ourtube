@@ -3,10 +3,11 @@
 ----
 
 - 1 - 🎬 [Adding-M218-Controllers-to-SoMachine-via-Configuration-Manager-｜-Schneider-Electric-Support](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Adding-M218-Controllers-to-SoMachine-via-Configuration-Manager-%EF%BD%9C-Schneider-Electric-Support)
-- 2 - 🎬 [Cx-Programmer-upload-or-back-up-program-from-PLC-Omron-model-CP1E](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Cx-Programmer-upload-or-back-up-program-from-PLC-Omron-model-CP1E)
-- 3 - 🎬 [HOW-TO-UPLOAD-PROGRAMME-FROM-OMRON-PLC-CP1E-E30SDR-A-10-04-2025](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/HOW-TO-UPLOAD-PROGRAMME-FROM-OMRON-PLC-CP1E-E30SDR-A-10-04-2025)
-- 4 - 🎬 [How-to-upload-the-program-from-Omron-NB-HMI](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/How-to-upload-the-program-from-Omron-NB-HMI)
-- 5 - 🎬 [Omron-CP1E-PLC：-The-Complete-Guide-to-Uploading-&-Downloading-Programs-(2026)](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Omron-CP1E-PLC%EF%BC%9A-The-Complete-Guide-to-Uploading-%26-Downloading-Programs-%282026%29)
-- 6 - 🎬 [Omron-NB-Series-HMI-firmware-update,-program-upload⧸download-using-Free-NB-Designer.-English](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Omron-NB-Series-HMI-firmware-update%2C-program-upload%E2%A7%B8download-using-Free-NB-Designer.-English)
-- 7 - 🎬 [Upload-Complete-program-from-Omron-PLC-CX-PROGRAMMER,-Upload-Memory-📝-,-Upload-Ladder,-settings.📺](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Upload-Complete-program-from-Omron-PLC-CX-PROGRAMMER%2C-Upload-Memory-%F0%9F%93%9D-%2C-Upload-Ladder%2C-settings.%F0%9F%93%BA)
-- 8 - 🎬 [Upload-Download-HMI-OMRON](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Upload-Download-HMI-OMRON)
+- 2 - 🎬 [Cara-Upload-dan-Download-Program-PLC-Omron-CP1E](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Cara-Upload-dan-Download-Program-PLC-Omron-CP1E)
+- 3 - 🎬 [Cx-Programmer-upload-or-back-up-program-from-PLC-Omron-model-CP1E](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Cx-Programmer-upload-or-back-up-program-from-PLC-Omron-model-CP1E)
+- 4 - 🎬 [HOW-TO-UPLOAD-PROGRAMME-FROM-OMRON-PLC-CP1E-E30SDR-A-10-04-2025](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/HOW-TO-UPLOAD-PROGRAMME-FROM-OMRON-PLC-CP1E-E30SDR-A-10-04-2025)
+- 5 - 🎬 [How-to-upload-the-program-from-Omron-NB-HMI](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/How-to-upload-the-program-from-Omron-NB-HMI)
+- 6 - 🎬 [Omron-CP1E-PLC：-The-Complete-Guide-to-Uploading-&-Downloading-Programs-(2026)](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Omron-CP1E-PLC%EF%BC%9A-The-Complete-Guide-to-Uploading-%26-Downloading-Programs-%282026%29)
+- 7 - 🎬 [Omron-NB-Series-HMI-firmware-update,-program-upload⧸download-using-Free-NB-Designer.-English](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Omron-NB-Series-HMI-firmware-update%2C-program-upload%E2%A7%B8download-using-Free-NB-Designer.-English)
+- 8 - 🎬 [Upload-Complete-program-from-Omron-PLC-CX-PROGRAMMER,-Upload-Memory-📝-,-Upload-Ladder,-settings.📺](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Upload-Complete-program-from-Omron-PLC-CX-PROGRAMMER%2C-Upload-Memory-%F0%9F%93%9D-%2C-Upload-Ladder%2C-settings.%F0%9F%93%BA)
+- 9 - 🎬 [Upload-Download-HMI-OMRON](https://github.com/aminaminsalehi/Ourtube/tree/main/videos/Upload-Download-HMI-OMRON)
